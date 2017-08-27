@@ -39,7 +39,7 @@ img_shape = (img_size, img_size)
 
 # class info
 
-classes = ['dogs', 'cats']
+classes = ['bars', 'pies']
 num_classes = len(classes)
 
 # batch size
